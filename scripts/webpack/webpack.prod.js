@@ -16,6 +16,7 @@ module.exports = merge(common, {
   entry: {
     dark: './public/sass/grafana.dark.scss',
     light: './public/sass/grafana.light.scss',
+    smart: './public/sass/grafana.smart.scss',
   },
 
   module: {
